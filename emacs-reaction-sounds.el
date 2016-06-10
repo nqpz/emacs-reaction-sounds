@@ -4,8 +4,8 @@
 ;; Written by Niels G. W. Serup (ngws@metanohi.name) in 2016.
 ;; Available under WTFPL 2.0.
 
-;; Put this in your load-path, and enter (require 'reaction-sounds) in your
-;; init file.
+;; Put this in your load-path, and enter (require 'emacs-reaction-sounds) in
+;; your init file.
 ;;
 ;; Examples:
 ;;
